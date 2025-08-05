@@ -4,8 +4,8 @@ import errorMap from './error_map.js';
 import translate from './translate.js'
 
 
-const APP_KEY = '20a486216e1cb35b'; // 替换为你的 appKey
-const APP_SECRET = 'k7i0hQ7sKHG1Yg3p63Ez1M68fq5UxnPC'; // 替换为你的 key（注意：暴露密钥有风险！）
+const APP_KEY = ''; // 替换为你的 appKey
+const APP_SECRET = ''; // 替换为你的 key（注意：暴露密钥有风险！）
 // const VOCAB_ID = ''; // 替换为你的 vocabId
 
 const queryStr = alfy.input; 
